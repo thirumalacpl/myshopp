@@ -18,8 +18,8 @@
   <gap:plugin name="org.apache.cordova.device" version="0.2.12" source="pgb" />
   <gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" source="pgb" />
   <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" source="pgb" />
- <!--  <gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" /> -->
-   <gap:plugin name="com.paypal.cordova.mobilesdk" version="3.1.8" />
+  <gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" />
+
   <!-- Use the newest version of PhoneGap -->
   <preference name="phonegap-version" value="3.6.3" />
 
